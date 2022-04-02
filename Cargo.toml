@@ -1,0 +1,12 @@
+[package]
+name = "nomcfb"
+version = "0.1.0"
+description = "Library for parsing Microsoft Compound File Binary [MS-CFB] files using nom"
+edition = "2021"
+authors = ["Alexander Sagen <alexander@sagen.me>"]
+repository = "https://github.com/alexrsagen/rs-nomcfb"
+
+[dependencies]
+nom = "7"
+chrono = "0.4"
+encoding = "0.2"
