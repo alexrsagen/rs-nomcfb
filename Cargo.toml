@@ -5,6 +5,7 @@ description = "Library for parsing Microsoft Compound File Binary [MS-CFB] files
 edition = "2021"
 authors = ["Alexander Sagen <alexander@sagen.me>"]
 repository = "https://github.com/alexrsagen/rs-nomcfb"
+license = "MIT"
 
 [dependencies]
 nom = "7"
